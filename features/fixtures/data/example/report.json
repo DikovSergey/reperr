@@ -1,0 +1,454 @@
+{
+	"time": "2026-04-02T14:24:27+03:00",
+	"id": "9ae925a1-d9e5-4f3b-b764-a084c16185e0",
+	"clientInfo": {
+		"platformType": "Windows_x86_64",
+		"appVersion": "8.3.27.1989",
+		"appName": "1CV8C",
+		"systemInfo": {
+			"osVersion": "Microsoft Windows 10 version 10.0  (Build 17763)",
+			"fullRAM": 137045118976,
+			"freeRAM": 13166948352,
+			"processor": "GenuineIntel Intel64 Family 6 Model 167 Stepping 1 3504 MHz",
+			"clientID": "ff92f46d-7c5b-41a9-9b6d-b44abfc5323f"
+		}
+	},
+	"sessionInfo": {
+		"userName": "ВербицкийАВ",
+		"dataSeparation": "+,+",
+		"platformInterfaceLanguageCode": "ru",
+		"configurationInterfaceLanguageCode": "ru",
+		"localeCode": "ru_RU"
+	},
+	"infoBaseInfo": {
+		"localeCode": "ru_RU"
+	},
+	"serverInfo": {
+		"appVersion": "8.3.27.1989",
+		"type": "Windows_x86_64",
+		"dbms": "MSSQLServer"
+	},
+	"configInfo": {
+		"name": "УправлениеПредприятием",
+		"description": "1С:ERP Управление предприятием 2 (2.5.25.96) (http:\/\/v8.1c.ru\/erp\/)\nCopyright © ООО \"1С-Софт\", 2004-2026. Все права защищены\n(http:\/\/www.1c.ru)",
+		"version": "2.5.25.96",
+		"compatibilityMode": "Version8_3_27",
+		"hash": "ad88ac43017d76439b4f34a86be8b5f400000000",
+		"changeEnabled": true,
+		"extentions": [
+			[
+				"Оптимизация производительности (0.0.0.1)",
+				"db7cd775f16ba70d20a503bf98e46836c375c260"
+			],
+			[
+				"EF_30177674_4",
+				"93008aa79269fd64ad8d0f947279fe16190236a4"
+			],
+			[
+				"EF_60005749_3",
+				"0d99bb7e2f2a4de3e752ef184a79309637d0dde9"
+			],
+			[
+				"EF_60029430",
+				"eae5aecb9b6b6c5486eda5fa8842109f7d51ad30"
+			],
+			[
+				"EF_60029429",
+				"fd628de5e517af7b75d7f335717cf3d1712cb51d"
+			],
+			[
+				"EF_60005864_3",
+				"85703ab0d3cd8ebe23be5ab2f60119fc5e5dfbaa"
+			],
+			[
+				"EF_60005861_3",
+				"a2d0f9639db3d7ec3696a21bfd9d3a6f35439aa2"
+			],
+			[
+				"EF_60018477_2",
+				"57e177ed6770b9a331e5ced72442d2584756a411"
+			],
+			[
+				"EF_00_00815237_2",
+				"5cc30dab503d2bcdcb324e308f3be24519cdaa2b"
+			],
+			[
+				"EF_00_00828427",
+				"78d98221488315bbd46526941a3d6111345cd12a"
+			],
+			[
+				"EF_60029426",
+				"81a378232742066780aeaeb470a59c913aae5da1"
+			],
+			[
+				"EF_00_00815183",
+				"d95ee251b55e32cba357c1bf3d2679f115ec02c6"
+			],
+			[
+				"EF_60029395",
+				"d5b901f46e6d8d97f7a5b3b4a7b2857a9c0b00e1"
+			],
+			[
+				"EF_30177711_3",
+				"2ce2715f9838f4426e84012e37da93619aa59272"
+			],
+			[
+				"EF_30177705_4",
+				"6fb691c5681199f868fbfd2976bd609cb6817b13"
+			],
+			[
+				"EF_30177686_6",
+				"52115bf81f4e03bd9339cddb814903d6b6c1266c"
+			],
+			[
+				"EF_60029394",
+				"ef6f0f228fe4cfc032d0a8293da959c3ca028de4"
+			],
+			[
+				"EF_60029343",
+				"e7e923276eb05140706f4ae261e420a869f8f9b8"
+			],
+			[
+				"EF_60029342",
+				"fe7d2250564aa480777f2012d2127865464fb02f"
+			],
+			[
+				"EF_60029341",
+				"070018540bca37ba51e9656ca072b3fc6f72d43a"
+			],
+			[
+				"EF_00_00787545",
+				"9817f1be7827e48f940a8b7a7ed7f83b4b5bbcde"
+			],
+			[
+				"EF_60018065",
+				"85172d279224da19c51c78af8f79681f906b1bc0"
+			],
+			[
+				"EF_72660123_21",
+				"6522ba3597ee3e475c491b8ed6f9b954e1bcb61a"
+			],
+			[
+				"EF_60028776",
+				"bbe0be391c78531201274fc41761185d0f5d280a"
+			],
+			[
+				"EF_60029316",
+				"c7d28f1fe75018a25130f704487987d8d8ca85f7"
+			],
+			[
+				"EF_30177709_5",
+				"305113d7624dd810eb7a6d214bbcd5c3c28e9534"
+			],
+			[
+				"EF_60029297",
+				"8e2097deb8c66f451968f88d22e3b1186d1e4faa"
+			],
+			[
+				"EF_60029275",
+				"f308f5c30144f7b3566e93e17fcafd425d611878"
+			],
+			[
+				"EF_00_00828418_2",
+				"d3ad5a5af30bd34984282b109bb6b5811d71a9b6"
+			],
+			[
+				"EF_00_00830296",
+				"265a3714001eef51799906d80eaa24681b4f14a7"
+			],
+			[
+				"EF_60029079",
+				"91acb9f370a7fd693f8e40572cd37024b319d5d6"
+			],
+			[
+				"EF_10236795_3",
+				"a4ba198acaf2141af03c20a89cd7b38275edcee7"
+			],
+			[
+				"EF_10237353_7",
+				"321b6e575a3c71d4fcc1cc83f813573be4e43944"
+			],
+			[
+				"EF_60006508_5",
+				"ced85855076beb92b58180e2ea0394b25f0f4902"
+			],
+			[
+				"EF_00_00815566",
+				"01361f3cdd7c50679258360df8b285670ae9dcbe"
+			],
+			[
+				"EF_60020154_2",
+				"7b4ec7992251074d591466a1d1280150162cc63a"
+			],
+			[
+				"EF_60018512",
+				"fc9fb334d7d049200cf4a53b8c1e26a3d6f17434"
+			],
+			[
+				"EF_00_00818779",
+				"aa29515fbd486d5264bb052497fa02499209ef1d"
+			],
+			[
+				"EF_60028824_2",
+				"601ba5f25f89dc0a82180b418142529cda1b73ad"
+			],
+			[
+				"EF_60020279_2",
+				"3abce6f62a969a80c3d65358a7ad4294c9371cf7"
+			],
+			[
+				"EF_00_00801325",
+				"36fdeb51f4c90870ae3609d7742bc984ced46072"
+			],
+			[
+				"EF_60012876_3",
+				"9ded3f524e6fc352fe2f3e622030ab0ffa21558d"
+			],
+			[
+				"EF_60020254_6",
+				"85b9b10dd42b9ebe2caaa22ea9aad5cf6b69ea83"
+			],
+			[
+				"EF_10236744_4",
+				"e7aa43d352d37f8debe2af9fec7296c647aa2701"
+			],
+			[
+				"EF_00_00803903_2",
+				"be7707cbed901106f30303304c39818ae5883934"
+			],
+			[
+				"EF_00_00808915",
+				"431da36bc97a6003bb0ea9d78b9e2645e4eba729"
+			],
+			[
+				"EF_60028924",
+				"3b5bc94733345a20d939f8cdb4ca7b965cd8ddbb"
+			],
+			[
+				"EF_74323935_00",
+				"ba7eaa537b4af6c176fab9f7b4f499ac602832d3"
+			],
+			[
+				"EF_00_00820936",
+				"aa4d5df20c9dde1e10347483cafcf7ed1868e786"
+			],
+			[
+				"EF_10213773",
+				"352c86ea2510a69e156079f2b00ab75ea807cf36"
+			],
+			[
+				"EF_00_00819592_2",
+				"cb8442b89321ac8b06de19324473c0be62c7ab02"
+			],
+			[
+				"EF_00_00811737",
+				"1530a1d2accb5a60260c9beb0e0de4580ce1c00e"
+			],
+			[
+				"EF_00_00811034",
+				"7fdb30ddfa8b625985b36a072bf24f761efe6aa8"
+			],
+			[
+				"EF_00_00815586",
+				"489c8c266515ac4194f767b9332183070f2884c3"
+			],
+			[
+				"EF_00_00723049",
+				"fdc2a31d052e2ba11e174255e8f109ca02c16435"
+			],
+			[
+				"EF_00_00815614",
+				"7628fca83e5f79aa8a40a9b0114ddd9a4004cebf"
+			],
+			[
+				"EF_3799",
+				"b0e7c0aca4074cd9cbf6efd067e0dc61c81b7743"
+			],
+			[
+				"EF_60028451",
+				"80cf91ea89556a18c3e0b6cbaa60531776474e8f"
+			],
+			[
+				"EF_00_00800248",
+				"77ce8f728cf4046759b0127338fc518639efe499"
+			],
+			[
+				"EF_00_00805744_2",
+				"62025266446404edd69b8302b09ff73d6fe6c362"
+			],
+			[
+				"EF_60006012_7",
+				"5db31ca30ecdcb4bef38857cb11967615cf04732"
+			],
+			[
+				"EF_00_00804156_5",
+				"3e3ca99254798e525489ea7ad376b5c6f885f7af"
+			],
+			[
+				"EF_60029398_2",
+				"ed7554d63d1bb8d49eef1c42a1aea66bdbde4441"
+			],
+			[
+				"EF_10236898_7",
+				"797b8b07575d629009588c09528077a68fa942d6"
+			],
+			[
+				"EF_30177820_11",
+				"05820f02f08c054e45709f234170b3bee32bcb10"
+			],
+			[
+				"EF_00_00839953",
+				"6b9e3f1dc2b5406471632e3e0aae62fd15e12862"
+			],
+			[
+				"EF_30177780_6",
+				"dce164c27b6da3c36712c80ce97efee140c089ec"
+			],
+			[
+				"EF_30177651_3",
+				"8f6e8c31dc77db7ca5e74e646909f6b249dc75ce"
+			],
+			[
+				"EF_60018977_292",
+				"d3d65c890b80a1fc40b0dc27b9185a56cba4413d"
+			],
+			[
+				"EF_00_00836197",
+				"8045ecb4daca3329100c4ff3e096bdd002fd76bd"
+			],
+			[
+				"EF_60029682",
+				"b0da04189d8a6407514647ad4acf786a832cf065"
+			],
+			[
+				"EF_60029657",
+				"5744e4048a7abd0739029c0db3d4e0f9821522b5"
+			],
+			[
+				"EF_60005891_3",
+				"c8c21176b07ad5c72d42db2521a702b281586eff"
+			],
+			[
+				"EF_60006057_7",
+				"46966df604a90a661d20b372ca543f774e481859"
+			],
+			[
+				"EF_60005873_4",
+				"10455bbc7ace793186aa9917ea1db07d5353254a"
+			],
+			[
+				"EF_60029595_2",
+				"867135e6f03345f89c977ff21624749da6adadca"
+			],
+			[
+				"EF_00_00835923",
+				"1653406f7e29be91de2633b5750996d684f89262"
+			],
+			[
+				"EF_00_00835911",
+				"fb228b2684fb066e6e7e9ac4f595c9215f5a0138"
+			],
+			[
+				"EF_10236723_10",
+				"bee4527d59af424fbc289ca16544b5c0cdcaa647"
+			],
+			[
+				"EF_60029552",
+				"8241455d437b93fe38493ddf3b0e04901ece758c"
+			],
+			[
+				"EF_00_00837054",
+				"cde480ecc94d930b6fd9007493722069c684c73b"
+			],
+			[
+				"EF_10238759_3",
+				"735673c98f36569c4caeb3c97851aea6c9c3231d"
+			],
+			[
+				"EF_00_00808846",
+				"4d932867a45c66789b9a9f35d4b57845334daae7"
+			],
+			[
+				"Расширение1 ERP",
+				"33984482155383834614d59bc55643892f1e91ec"
+			],
+			[
+				"ТСН (1.2.5.2)",
+				"b4fd1b2564a433db804cdd4c563c1594feddf54c"
+			],
+			[
+				"ТСН ERP (25.07.17.4)",
+				"a7cac5d12ee10f0efc3dc5fe38c5c60792f649e0"
+			],
+			[
+				"Костыль ПП",
+				"208bb50f6527035df9b75d9337f551b7dc9674e2"
+			],
+			[
+				"sh_УТ11_5_24",
+				"468637d972a64d8cc1c0f41a7b4f887aaaf47183"
+			],
+			[
+				"Инструменты разработчика tormozit (6.38.1e)",
+				"4aca3bb5658cd7b5b4e75c6846bce88afb611b90"
+			],
+			[
+				"REST API",
+				"35187c59975bcc97792b10bfeff2e39a03375ca0"
+			],
+			[
+				"Мониторинг (0.0.1)",
+				"21c401f1d5b24bad7276ef43c9ee11346c787494"
+			],
+			[
+				"Интеграция SmartHub (3.6.0.017)\nteam@1c-presta.ru\n(1c-presta.ru)",
+				"b8c625550ebd7323430fac40366fdb9ed0530eab"
+			],
+			[
+				"ПИИД",
+				"417590c90bc824138bb7cacb5cca38ae4f5f2258"
+			],
+			[
+				"Элма",
+				"85c349c0db59278bc422ab8ed61cfd4d1f52f1c3"
+			]
+		]
+	},
+	"errorInfo": {
+		"userDescription": "Я ничего не нажимало, а оно все сломалось! Почините СРОЧНО!",
+		"systemErrorInfo": {
+			"clientStack": "core83.dll:0x000000000008583F bsl.dll:0x0000000000059D4B bsl.dll:0x0000000000059FCD bsl.dll:0x0000000000064FFB VCRUNTIME140.dll:0x0000000000001030 VCRUNTIME140.dll:0x00000000000032E8 unknown:0x0000000000000000 bsl.dll:0x000000000004B4D4 bsl.dll:0x000000000004B679 bsl.dll:0x0000000000022090 bsl.dll:0x0000000000021E12 bsl.dll:0x000000000004D876 bsl.dll:0x000000000004B4D4 bsl.dll:0x000000000004B679 bsl.dll:0x0000000000022090 bsl.dll:0x0000000000021E12 bsl.dll:0x000000000001B2AA mngui.dll:0x00000000004E026E mngui.dll:0x00000000004E0322 mngui.dll:0x00000000004DE8E0 mngcore.dll:0x0000000000530811 mngui.dll:0x00000000004F965F mngui.dll:0x0000000000520774 frame.dll:0x00000000002553E2 frame.dll:0x00000000005635A0 frame.dll:0x00000000005630A2 frame.dll:0x0000000000563401 frame.dll:0x00000000004B45C7 frame.dll:0x00000000004A6EA0 core83.dll:0x00000000000834D6 frame.dll:0x00000000008D308F frame.dll:0x0000000000634D86 frame.dll:0x00000000006334ED mngui.dll:0x0000000000522B7D mngcln.dll:0x00000000000F59DB frame.dll:0x00000000009093D2 frame.dll:0x0000000000909B1A frame.dll:0x00000000008EB8CD frame.dll:0x00000000008ED4E6 frame.dll:0x000000000092179A frame.dll:0x000000000090F593 frame.dll:0x00000000000A539B frame.dll:0x00000000000C65D9 frame.dll:0x00000000000C7DD5 frame.dll:0x00000000000C6E7C frame.dll:0x00000000000CB359 frame.dll:0x00000000000D1BC6 frame.dll:0x00000000000C55DB frame.dll:0x00000000000C5EEB wbase83.dll:0x0000000000032A40 wbase83.dll:0x0000000000025844 wbase83.dll:0x00000000000253B0 wbase83.dll:0x0000000000024D08 wbase83.dll:0x00000000000249A4 wbase83.dll:0x0000000000015924 wbase83.dll:0x0000000000015ACB frame.dll:0x00000000008D5C40 frame.dll:0x00000000008D3551 mngcln.dll:0x00000000000B6803 mngcln.dll:0x00000000000B5EA4 1cv8c.exe:0x000000000000F506 1cv8c.exe:0x000000000000A70E 1cv8c.exe:0x00000000000133BE core83.dll:0x00000000002CDBF0 core83.dll:0x00000000002D0208 1cv8c.exe:0x0000000000012F72 1cv8c.exe:0x00000000000DA43A KERNEL32.DLL:0x0000000000000000 unknown:0x0000000000000000 ",
+			"clientStackHash": "EF582A53B9014FDE3EC857DB9E614FBE"
+		},
+		"applicationErrorInfo": {
+			"errors": [
+				[
+					"{ВнешняяОбработка.Ошибка.Форма.Форма.Форма(12)}: Значение не является значением объектного типа (фыва)",
+					[
+						"ScriptRuntimeError",
+						"ScriptUseError"
+					],
+					"",
+					""
+				]
+			],
+			"stack": [
+				[
+					"ВнешняяОбработка.Ошибка.Форма.Форма.Форма",
+					5,
+					"\u0009Скидыщ(Отказ);"
+				],
+				[
+					"ВнешняяОбработка.Ошибка.Форма.Форма.Форма",
+					12,
+					"\u0009Отказ.фыва = 1;"
+				]
+			],
+			"stackHash": "4DA2C4A5B14B7D988915DE338A1D874F"
+		}
+	},
+	"screenshot": {
+		"file": "screenshot.png"
+	},
+	"additionalInfo": "test7_tcn_erp"
+}
