@@ -7,3 +7,5 @@ services:
       - ./data:/app/data
     environment:
       ASPNETCORE_ENVIRONMENT: Production
+    extra_hosts:
+    - "host.docker.internal:host-gateway"
